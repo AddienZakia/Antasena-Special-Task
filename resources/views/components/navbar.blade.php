@@ -9,11 +9,8 @@
                         onclick="clickNav()">Team</a>
                 </li>
                 <li class="list-none">
-                    <div href="#"
-                        class="text-xl font-bold md:text-lg transition duration-100 hover:text-slate-200"
-                        onclick="clickNav()">
-                        Cars
-                    </div>
+                    <a href="#" class="font-bold md:text-lg transition duration-100 hover:text-slate-200"
+                        onclick="clickNav()">Cars</a>
                 </li>
                 <li class="list-none">
                     <a href="#" class="text-xl font-bold md:text-lg transition duration-100 hover:text-slate-200"
@@ -43,26 +40,22 @@
 
             <div class="hidden space-x-8 lg:flex lg:items-center lg:justify-center">
                 <li class="list-none">
-                    <a href="/#tentang"
-                        class="font-bold md:text-lg transition duration-100 hover:text-slate-200">Team</a>
+                    <a href="#" class="font-bold md:text-lg transition duration-100 hover:text-slate-200">Team</a>
                 </li>
                 <li class="list-none">
-                    <div data-dropdown-toggle="dropdownMenu" href="#"
-                        class="font-bold md:text-lg transition duration-100 hover:text-slate-200 cursor-pointer">
-                        Cars
-                    </div>
-                </li>
-                <li class="list-none">
-                    <a href="/merchandise"
+                    <a href="#"
                         class="font-bold md:text-lg transition duration-100 hover:text-slate-200">Partners</a>
                 </li>
                 <li class="list-none">
-                    <a href="/merchandise"
+                    <a href="#"
+                        class="font-bold md:text-lg transition duration-100 hover:text-slate-200">Partners</a>
+                </li>
+                <li class="list-none">
+                    <a href="#"
                         class="font-bold md:text-lg transition duration-100 hover:text-slate-200">Contact</a>
                 </li>
                 <li class="list-none">
-                    <a href="/merchandise"
-                        class="font-bold md:text-lg transition duration-100 hover:text-slate-200">News</a>
+                    <a href="#" class="font-bold md:text-lg transition duration-100 hover:text-slate-200">News</a>
                 </li>
             </div>
 

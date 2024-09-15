@@ -1,5 +1,5 @@
 <section
-    class="min-h-screen flex justify-center items-center text-whiteCustom py-20 md:py-28 lg:py-0 lg:min-h-[80vh] xl:min-h-screen xl:py-20 relative"
+    class="z-20 min-h-screen flex justify-center items-center text-whiteCustom py-20 md:py-28 lg:py-0 lg:min-h-[80vh] xl:min-h-screen xl:py-20 relative"
     style="background-image: url('{{ asset('images/texture.png') }}')">
 
     <div class="flex justify-center items-center px-8 flex-col-reverse md:px-16 space-y-10 lg:flex-row lg:space-x-10">

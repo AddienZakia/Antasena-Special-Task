@@ -3,7 +3,7 @@
     <img src="{{ asset('images/ellipse-purple.png') }}" alt="ellipse"
         class="absolute -bottom-96 right-0 opacity-90 w-[60%]">
 
-    <div class="text-center space-y-12 px-20">
+    <div class="text-center space-y-12 px-20 relative z-20">
         <h1 class="text-5xl font-bold">Team Activities</h1>
 
         <div class="gap-8 grid grid-cols-1 md:grid-cols-2 xl xl:grid-cols-4 md:gap-3 xl:gap-1">
@@ -30,7 +30,7 @@
         </div>
     </div>
 
-    <div class="w-full px-8 space-y-8">
+    <div class="w-full px-8 space-y-8 relative z-20">
         <h1 class="text-4xl md:text-5xl font-bold text-center">Get to <span
                 class="text-transparent bg-clip-text bg-gradient-to-br from-purpleCustom to-blueCustom">know
                 us</span> better</h1>

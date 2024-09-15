@@ -10,15 +10,10 @@
                 first hydrogen car research team in Indonesia. The team was made by students from Institut Teknologi
                 Sepuluh Nopember which focuses on studies and research related to technological innovations using
                 renewable energy.</p>
-            {{-- <x-css-pin class="text-whiteCustom/70 text-2xl" /> --}}
-            {{-- <h3 class="text-whiteCustom/90 text-sm w-full mt-5 text-justify">Computational and Materials Modelling
-                Laboratory,
-                Dept. of
-                Materials Engineering, ITS Indonesia</h3> --}}
         </div>
 
         <div
-            class="flex justify-between items-center md:justify-start md:items-start md:space-x-20 lg:w-[50%] xl:w-[30%]">
+            class="flex justify-between items-center md:justify-start md:items-start md:space-x-20 lg:w-[50%] xl:w-[40%]">
             <ul class="text-whiteCustom/70 space-y-1">
                 <h3 class="text-whiteCustom font-bold text-lg">Navigation</h3>
                 <div class="space-y-1">
@@ -38,15 +33,15 @@
                 <h3 class="text-whiteCustom font-bold text-lg">Social Media</h3>
                 <div class="space-y-1">
                     <li><a class="font-semibold transition duration-100 hover:text-whiteCustom/90"
-                            href="#">Instagram</a></li>
+                            href="https://www.instagram.com/antasena_its/">Instagram</a></li>
                     <li><a class="font-semibold transition duration-100 hover:text-whiteCustom/90"
-                            href="#">Youtube</a></li>
+                            href="https://www.youtube.com/@antasenaitsteam3329">Youtube</a></li>
                     <li><a class="font-semibold transition duration-100 hover:text-whiteCustom/90"
-                            href="#">Tiktok</a></li>
+                            href="https://www.tiktok.com/@antasena_its">Tiktok</a></li>
                     <li><a class="font-semibold transition duration-100 hover:text-whiteCustom/90"
-                            href="#">Twitter</a></li>
+                            href="https://x.com/Antasena_ITS">Twitter</a></li>
                     <li><a class="font-semibold transition duration-100 hover:text-whiteCustom/90"
-                            href="#">Linkedin</a></li>
+                            href="https://www.linkedin.com/company/antasenaitsteam/">Linkedin</a></li>
                 </div>
             </ul>
         </div>
